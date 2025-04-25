@@ -14,10 +14,10 @@
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VHcH7REHjnDNvD9R0sd-3" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5VHcH7REHjnDNvD9R0sd-4" value="消息线程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
